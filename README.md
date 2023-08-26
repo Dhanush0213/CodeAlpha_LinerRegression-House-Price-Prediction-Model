@@ -1,6 +1,5 @@
 # LinerRegression-House-Price-Prediction-Model
 
-This repository contains a simple linear regression model for predicting house prices based on certain features. Linear regression is a fundamental machine learning algorithm used for predicting a continuous target variable based on one or more input features.
 
 ## Overview
 

@@ -1,1 +1,1 @@
-# LineraRegression-House-Price-Prediction-Model
+# Liner-Regression-House-Price-Prediction-Model
